@@ -2,7 +2,7 @@
 
 ## 🚩 Introduction
 
-The Habit Tracker API is a RESTful service built with Java Spring Boot that enables users to manage personal habits and monitor their daily progress. It supports essential features such as user authentication (sign-up, sign-in, sign-out), habit creation, and habit tracking with detailed daily progress. Each user can track multiple habits, monitor their streaks, and review their improvement over time.
+The Habit Tracker API is a RESTful service built with Java Spring Boot that enables users to manage personal habits and monitor their daily progress. It supports essential features such as user authentication (sign-up, sign-in), habit creation, and habit tracking with detailed daily progress. Each user can track multiple habits, monitor their streaks, and review their improvement over time.
 
 ## 🎯 Purpose
 
